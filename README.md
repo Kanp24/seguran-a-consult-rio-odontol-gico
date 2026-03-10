@@ -76,6 +76,14 @@ Transparência no uso das informações.
 Direitos dos titulares dos dados.
 Responsabilidade no tratamento das informações.
 
+📄 Documentos do Projeto
+
+📘 [Cartilha de Segurança Digital](docs/cartilha-seguran
+
+📋 [Plano de Ação Simplificado](docs/plano-de-acao-consultorio
+
+📑 [Relatório do Projeto](docs/Projeto _LGPD_Consultorio_Odontologico_ADS.docx)
+
 👥 Integrantes do Grupo:
 Davys Belo
 Arthur De Lima
