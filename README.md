@@ -82,9 +82,10 @@ Responsabilidade no tratamento das informações.
 (docs/[Cartilha-projeto-Consultório-Odontológico.docx](https://docs.google.com/document/d/1L2_H34MNDuQcihFIgQqhpDYQHk6M4Ldr/edit?usp=drivesdk&ouid=108292413247002492474&rtpof=true&sd=true))
 
 📋 [Plano de Ação Simplificado]
-(docs/Plano-de-Ação-Segurança-Digital-Consultório-Odontológico.docx)
+(docs/[Plano-de-Ação-Segurança-Digital-Consultório-Odontológico.docx](https://docs.google.com/document/d/1z-4mbIzz9l14g5na1dkBvcgQGxCq5Pv9/edit?usp=drivesdk&ouid=108292413247002492474&rtpof=true&sd=true))
 
-📑 [Relatório do Projeto](docs/(Projeto-LGPD-Consultorio-Odontologico-ADS.docx)(https://docs.google.com/document/d/1Ku4L4Gr6WlW7Bw77G7e6FfG0dRuOC6eh/edit?usp=drivesdk&ouid=108292413247002492474&rtpof=true&sd=true))
+📑 [Relatório do Projeto]
+(docs/([Projeto-LGPD-Consultorio-Odontologico-ADS.docx](https://docs.google.com/document/d/1Ku4L4Gr6WlW7Bw77G7e6FfG0dRuOC6eh/edit?usp=drivesdk&ouid=108292413247002492474&rtpof=true&sd=true))
 
 👥 Integrantes do Grupo:
 Davys Belo
