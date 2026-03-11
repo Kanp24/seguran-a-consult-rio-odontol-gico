@@ -1,4 +1,5 @@
 Projeto: Segurança Digital em Consultório Odontológico
+
 📖 Descrição do Projeto
 Este projeto apresenta uma proposta de segurança digital para um consultório odontológico de pequeno porte, com foco na proteção de dados pessoais dos pacientes.
 O trabalho aborda conceitos básicos de segurança da informação e introduz os princípios da Lei Geral de Proteção de Dados (LGPD), destacando a importância da privacidade e da proteção das informações no setor da saúde.
