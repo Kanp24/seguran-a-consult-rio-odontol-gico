@@ -86,15 +86,15 @@ Responsabilidade no tratamento das informações.
 (docs/[Plano-de-Ação-Segurança-Digital-Consultório-Odontológico.docx](https://docs.google.com/document/d/1z-4mbIzz9l14g5na1dkBvcgQGxCq5Pv9/edit?usp=drivesdk&ouid=108292413247002492474&rtpof=true&sd=true))
 
 📑 [Relatório do Projeto]
-(docs/([Projeto-LGPD-Consultorio-Odontologico-ADS.docx](https://docs.google.com/document/d/1Ku4L4Gr6WlW7Bw77G7e6FfG0dRuOC6eh/edit?usp=drivesdk&ouid=108292413247002492474&rtpof=true&sd=true))
+(docs/([Projeto-LGPD-Consultorio-Odontologico-ADS.docx](https://docs.google.com/document/d/1Ku4L4Gr6WlW7Bw77G7e6FfG0dRuOC6eh/edit?usp=sharing&ouid=108292413247002492474&rtpof=true&sd=true)
 
 👥 Integrantes do Grupo:
 Davys Belo
 Arthur De Lima
 Kauã Pereira
 Guilherme Morato
-Marcus Vinicius
-Luciano Viana
+Mariana Freitas
+Andrei Murilo
 
 ✅ Considerações Finais
 A adoção de práticas simples de segurança digital pode ajudar pequenos consultórios a proteger melhor as informações de seus pacientes. A conscientização sobre proteção de dados e a aplicação dos princípios da LGPD são fundamentais para garantir a privacidade e a confiança no atendimento.
